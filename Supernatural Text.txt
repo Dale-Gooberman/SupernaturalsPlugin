@@ -1,0 +1,133 @@
+Angels
+*Joining & Leaving
+	-To join, die from fall damage while holding a feather in your main hand
+	-To leave, idfk. Just ask me to cure you or something
+*Abilities
+	-Cannot damage animals with diamond swords
+	-Can heal another player by left clicking with a feather
+	-Can cure a supernatural player of their supernatural class with paper
+	-Can super jump with a yellow flower
+	-Can summon cows, pigs, and dogs with raw beef, raw pork, and bones, respectively.
+	-Does not take fall damage
+	-Cannot wear diamond or gold armor
+	-Gains power from killing mobs and being in water
+
+Demons
+*Joining & Leaving
+	-To join, cast yourself into the fiery sea of the Nether whilst draping the skins of dead animals over your body
+	-To leave, cool the fiery, demonic blood in your veins by drowning yourself in a cold biome
+	 with an inventory full of snowballs
+*Abilities
+	-Immune to explosion, fire, lava damage, and fall damage
+	-Heal and gain power from being in lava
+	-Cannot wear any armor
+	-Has a 35% chance to set players on fire when hitting them
+	-Can shoot fireballs with redstone
+	-Can cast webs on the ground with an inc sack
+	-Lose power overtime in the overworld if not in lava or in fire
+	-Can convert players to demons if both are holding a block of netherack
+
+
+Enderborn
+*Joining & Leaving
+	-To join, right click a clay block while holding an enderpearl in your main hand
+	-To leave, die enough: you have 5 lives as an enderborn
+*Abilities
+	-Cannot use diamond tools or weapons to deal damage
+	-Will turn back to human after 5 deaths
+	-If you are holding an enderpearl and have enough power, damage received will be reduced.
+	-10% chance to convert players to an enderborn when you kill them
+	-Can consume enderpearls for 100 power
+	-30% chance to deal 30% more damage
+	-Take 50% less damage
+
+
+Ghoul
+*Joining & Leaving
+	-To join, be killed by a zombie pigmen, or by another Ghoul player
+	-To leave, interact with a holy altar until you are cured (you may explode to death a couple of times first)
+*Abilities
+	-Cannot use melee weapons, but you deal additional unarmed damage (1 heart extra)
+	-Immune to diamond swords
+	-Immune to fall damage
+	-Take 35% reduced damage from all sources
+	-Can turn other players into ghouls if you kill them, 35% chance
+	-Can summon zombies by right clicking with pork
+	-Being in water disintegrates you. Take 2 hearts of damage per second in water
+	-Can form an Unholy Bond with a player that is not a human. No idea what it does. Maybe we can test it out
+	-Looks like you might regen health passively except when it's raining
+	-Truce with Skeletons, Zombies, Creepers, Zombie Pigmen, Giants, and Endermen
+
+
+Hunter
+*Joining & Leaving
+	-To join, Non-Priest humans who can prove their Supernatural Hunting Abilities by slaying 3 different types of supernaturals without dying will
+	 be invited to the WitchHunters' Association.
+	-To leave, kill yourself with your bow
+*Abilities
+	-Cannot use melee weapons
+	-Has four modes when using a bow: Power Shot, Fire shot, Triple Shot, and Grapple shot (doesn't work anymore)	
+	-Can only wear leather armor
+	-Gains power from hunting other supernatural players on /sn killlist and from killing players
+	-Do triple damage with bows
+	-Take 1.5 hearts less fall damage
+
+
+Priest
+*Joining & Leaving
+	-To join, make an offering to a holy altar (a diamond block)
+	-To leave, make a bad offering of coal to the altar
+*Abilities
+	-Cannot wear armor
+	-Cannot hurt animals
+	-Deals double damage to Supernaturals and sets them on fire, unless they are a demon. 
+	-Gains power by offering food to an altar (diamond block)
+	-Can banish a supernatural player to an admin determined location with a feather
+	-Can convert a supernatural player forcefully to human with sugar
+	-Can voluntarily convert a supernature player to a human if both players are holding flint
+	-Can heal non-supernaturals with paper
+	-Can drain the power of a supernatural with a book
+	-Can cast Guardian Angel with wool (saves you from death once)
+
+
+Vampire
+*Joining & Leaving
+	-To join, construct an unholy altar starting with a gold block in the center and a 7 diameter circle of obsidian
+	-To leave, construct a cleansing altar starting with a lapis lazuli block and a 7 diameter circle of glowstone blocks
+*Abilities
+	-Resist drowning damage at the cost of power
+	-Regenerate health at the cost of power
+	-Generate power over time
+	-Immune to fall damage
+	-Deal 30% more damage
+	-Take 20% less damage
+	-Take 150% more damage from wooden items (sticks, tools, bows)
+	-Burn in sunlight unless wearing a golden helmet
+	-35% chance to spread your vampireness to killed players
+	-Can jump high with a rose
+	-Can mark a teleportation location with a rose
+	-Can teleport to marked location with a book
+	-Cannot eat food. Must kill things to not starve.
+	-Truce with Creepers, Skeletons, Zombies, Endermen, and Spiders
+
+Werewolf
+*Joining & Leaving
+	-To join, surrender your life to a wild wolf under the light of the moon
+	-To leave, prepare a wolf's bane potion and drink it (ask me for recipe)
+*Abilities
+	-Take 50% fall damage
+	-Gain power from eating, killing mobs, and players
+	-Cannot use weapons or wear armor at night.
+	-Deals 5x damage at night
+	-Can only use abilities at night
+	-Cannot eat non-meats at night
+	-Can dash with a feather
+	-Can summon a wolf with a pork chop
+	-Regenerate health over time at night
+	-Chance to convert players into werewolves upon kill
+
+
+
+
+
+
